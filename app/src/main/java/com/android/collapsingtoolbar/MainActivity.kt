@@ -40,6 +40,7 @@ class MainActivity : AppCompatActivity() {
                 txvItemTotal?.visibility = View.INVISIBLE
             }
         }
+
         collapsingToolbarLayout?.title = ""
         collapsingToolbarLayout?.setExpandedTitleColor(Color.TRANSPARENT)
         collapsingToolbarLayout?.setCollapsedTitleTextColor(Color.BLACK)

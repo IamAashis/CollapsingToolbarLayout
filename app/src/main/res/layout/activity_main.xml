@@ -20,14 +20,6 @@
             app:layout_collapseMode="pin"
             app:layout_scrollFlags="scroll|exitUntilCollapsed">
 
-            <!--        <LinearLayout
-                        android:id="@+id/lltViewNew"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:orientation="vertical"
-                        app:layout_behavior="@string/appbar_scrolling_view_behavior"
-                        app:layout_scrollFlags="scroll|exitUntilCollapsed">-->
-
             <androidx.appcompat.widget.Toolbar
                 android:id="@+id/toolbar"
                 android:layout_width="match_parent"
